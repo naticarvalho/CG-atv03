@@ -8,7 +8,7 @@ Este é um simples leitor de modelos OBJ em C++.
 
 1. **Clone o Repositório:**
     ```bash
-    git clone https://github.com/natiscarvalho/Atividade03.git
+    git clone https://github.com/naticarvalho/CG-atv03.git
     ```
 
 2. **Compile o Projeto:**
